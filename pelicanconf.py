@@ -1,6 +1,6 @@
 AUTHOR = 'Michael H'
 SITENAME = 'Weblog'
-SITEURL = ""
+SITEURL = "https://gehsty.github.io/gehsty/"
 
 PATH = "content"
 
