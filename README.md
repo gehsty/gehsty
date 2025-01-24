@@ -1,4 +1,4 @@
-## Hi there mate hello 👋
+## Hi there mate hello how do I make this work 👋
 
 <!--
 **gehsty/gehsty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
